@@ -46,7 +46,7 @@ public class GetLeastNumbers {
     public  static void  main (String[] args){
         int[] nums = {4,5,1,6,2,7,3,8};
         ArrayList<Integer> list = new ArrayList<>();
-        list = GetLeastNumbers_Solution(nums,7);
+        list = GetLeastNumbers_Solution(nums,1);
         for (Integer i : list)
             System.out.print(i + " ");
         System.out.println();

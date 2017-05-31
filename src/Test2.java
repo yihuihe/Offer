@@ -15,6 +15,9 @@ public class Test2 {
        ArrayList<Integer> list = new ArrayList<>();
        ArrayList<Integer> queue = new ArrayList<>();
        Stack<Integer> stack  = new Stack<>();
+       String str = "    ";
+       System.out.print(str.matches("[ ]*"));
+
 
 
 

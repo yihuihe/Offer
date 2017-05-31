@@ -25,6 +25,6 @@ public class Test {
         }
         for(String s : set)
             System.out.print(s+" ");
-
+        System.out.print( Integer.valueOf("11"));
     }
 }
